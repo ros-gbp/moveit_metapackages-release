@@ -1,0 +1,62 @@
+ros-hydro-moveit-full-pr2 (0.5.0-0raring) raring; urgency=high
+
+  * add changelogs
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Mon, 29 Jul 2013 21:00:00 -0000
+
+ros-hydro-moveit-full-pr2 (0.4.2-0raring) raring; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Tue, 02 Jul 2013 21:00:00 -0000
+
+ros-hydro-moveit-full-pr2 (0.4.1-0raring) raring; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Thu, 06 Jun 2013 21:00:00 -0000
+
+ros-hydro-moveit-full-pr2 (0.4.0-0raring) raring; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Wed, 22 May 2013 21:00:00 -0000
+
+ros-hydro-moveit-full-pr2 (0.3.3-0raring) raring; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Wed, 01 May 2013 21:00:00 -0000
+
+ros-hydro-moveit-full-pr2 (0.3.2-0raring) raring; urgency=high
+
+  * ad buildtool depends
+  * add cmake lists files
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Mon, 15 Apr 2013 21:00:00 -0000
+
+ros-hydro-moveit-full-pr2 (0.3.1-0raring) raring; urgency=high
+
+  * removing build deps
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Sun, 03 Feb 2013 22:00:00 -0000
+
+ros-hydro-moveit-full-pr2 (0.3.0-0raring) raring; urgency=high
+
+  * fix buildtool tag
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Thu, 27 Dec 2012 22:00:00 -0000
+
+ros-hydro-moveit-full-pr2 (0.1.1-0raring) raring; urgency=high
+
+  * added new package for deps
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Sun, 25 Nov 2012 22:00:00 -0000
+
+ros-hydro-moveit-full-pr2 (0.1.0-0raring) raring; urgency=high
+
+  * add meta-packages
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Sun, 18 Nov 2012 22:00:00 -0000
+
+
