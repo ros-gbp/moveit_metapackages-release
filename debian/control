@@ -1,0 +1,12 @@
+Source: ros-indigo-moveit-full
+Section: misc
+Priority: extra
+Maintainer: Ioan Sucan <isucan@willowgarage.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://moveit.ros.org
+Standards-Version: 3.9.2
+
+Package: ros-indigo-moveit-full
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-moveit-commander, ros-indigo-moveit-planners, ros-indigo-moveit-plugins, ros-indigo-moveit-ros, ros-indigo-moveit-setup-assistant
+Description: All MoveIt components and plugins
