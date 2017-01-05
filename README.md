@@ -1,3 +1,28 @@
+## moveit_metapackages (indigo) - 0.7.6-0
+
+The packages in the `moveit_metapackages` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo moveit_metapackages` on `Thu, 05 Jan 2017 21:42:58 -0000`
+
+These packages were released:
+- `moveit_full`
+- `moveit_full_pr2`
+
+Version of package(s) in repository `moveit_metapackages`:
+
+- upstream repository: https://github.com/ros-planning/moveit_metapackages.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.6.1-0`
+- new version: `0.7.6-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## moveit_metapackages (indigo) - 0.6.1-0
 
 The packages in the `moveit_metapackages` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -t indigo -r indigo moveit_metapackages` on `Sat, 17 Jan 2015 02:30:53 -0000`
